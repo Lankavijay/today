@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="code.js"></script>
+</head>
+<body>
+<p>eJS is better than React?  Watch Text with Audio
+Why use Vue instead of Angular?  Watch Text with Audio
+What is the use of Vue CLI?  Watch Text with Audio
+Quick tour of Vue-cli  Watch Text with Audio
+What is the difference between Vue and Vue CLI? Watch Text with Audio
+What does CLI stand for in Vue?  Watch Text with Audio
+Is Vue CLI still supported?  Watch Text with Audio
+How to Create First application with Vue.js   Watch Text with Audio
+How to build a single page application using Vue js?  Watch Text with Audio
+Anatomy of Hello world vue app  Watch Text with Audio
+How to setup and run a vue app  Watch Text with Audio
+    Working with Template & view model
+What is vue.js template  Watch Text With Audio
+What is viewmodel / vue instance?   Watch Text With Audio
+What is Template syntax in vue.js   Watch Text With Audio
+Learn Interpolation in Vue.js  Watch Text With Audio
+Directive in Vue.js   Watch Text With Audio
+Filters in Vue.js   Watch Text With Audio
+Shorthands in vue.js   Watch Text With Audio
+Javascript expressions in Vue.js    Watch Text With Audio
+Computed properties in Vue.js   Watch Text With Audio
+Watchers in Vue.js    Watch Text With Audio
+Class and style bindings in Vue.js   Watch Text With Audio
+HTML classes in Vue.js    Watch Text With Audio
+Why Inline styles in Vue.js   Watch Text With Audio
+Conditional Rendering in Vue.js   Watch Text With Audio
+ Vue instance revisited
+Introduction to Basic vue instance usage  Watch Text  with Audio
+What is Multiple vue instances   Watch Text  with Audio
+Vue instance Lifecycle   Watch Text  with Audio
+How to access data from outside vue instance   Watch Text  with Audio
+What is Data and methods in the vue   Watch Text  with Audio
+Learn more about $el, $data and $refs in Vue.js   Watch Text  with Audio
+
+
+
+  Event handling
+Introduction to event handling in Vue.js   Watch Text  with Audio
+Learn how to work with events in vue.js   Watch Text  with Audio
+What is Method Event handlers in Vue.js   Watch Text  with Audio
+Manage event modifiers in Vue.js   Watch Text  with Audio
+Key modifiers in Vue.js   Watch Text  with Audio
+
+
+  Working with forms and two way binding
+Introduction to two way binding via v-model in Vue.js    Watch Text  with Audio
+How to handle user input with HTML form controls i...    Watch Text  with Audio
+Data binding in Vue.js  Watch Text  with Audio
+How to use dot lazy, dot number, dot trim modifier...   Watch Text  with Audio
+Submitting a form in Vue.js   Watch Text  with Audio
+
+  Introduction to components
+
+What are components in Vue.js    Watch Text  with Audio
+Why components in Vue.js     Watch Text  with Audio
+Hello World component in Vue.js    Watch Text  with Audio
+Anatomy of a component in vue.js    Watch Text  with Audio
+Registering Components Locally and Globally in Vue.js    Watch Text  with Audio
+Root Component in Vue.js    Watch Text  with Audio
+Thinking in components in Vue.js   Watch Text  with Audio
+How to composing application as components in Vue.js   Watch Text  with Audio
+
+  Passing data to components
+Props, parent to child communication in Vue.js   Watch Text  with Audio
+Custom events, child to parent In Vue.js    Watch Text  with Audio
+Non parent child communication event emitter style...   Watch Text  with Audio
+
+  Content distribution with slots
+Introduction to compilation scope in Vue.js   Watch Text With Audio
+How to create single slot in Vue.js     Watch Text With Audio
+How to create named slot in Vue.js     Watch Text With Audio
+How to create scoped slot in Vue.js     Watch Text With Audio
+
+
+  Dynamic Components
+How to switch Multiple Components with Dynamic Com...    Watch Text With Audio
+Dynamic Component Behavior in Vue.js    Watch Text With Audio
+Keeping Dynamic Components Alive in Vue.js    Watch Text With Audio
+What is lifecycle hooks in Vue.js   Watch Text With Audio
+
+  Custom directives
+Introduction to custom directives in Vue.js   Watch Text With Audio
+How to develop directive hook functions in Vue.js   Watch Text With Audio
+Passing values and arguments to custom directive i...   Watch Text With Audio
+Directive hook arguments in Vue js   Watch Text With Audio
+Developing custom directive in Vue js   Watch Text With Audio
+
+  Mixins
+Introduction to Mixins in Vue js   Watch Text With Audio
+Creating and using mixins in Vue js   Watch Text With Audio
+What is option merging in Vue js    Watch Text With Audio
+Global mixin in Vue js    Watch Text With Audio
+
+
+  Filters
+Introduction to filters in Vue.js    Watch Text With Audio
+Uses of local filters in Vue.js    Watch Text With Audio
+Uses of global filters in Vue.js   Watch Text With Audio
+Uses of chaining filters in Vue.js   Watch Text With Audio
+
+  Remote communication with Vue.js
+How to use vue-resource to working with HTTP in Vu...     Watch Text With Audio
+How to fetch data in Vue.js    Watch Text With Audio
+Post data to server in Vue.js    Watch Text With Audio
+Request Response Interception in Vue.js    Watch Text With Audio
+Create Template URLs in Vue.js    Watch Text With Audio
+  Routing
+Introduction to routing in Vue.js     Watch Text With Audio
+How to set up vue-router in Vue.js    Watch Text With Audio
+Loading routes in Vue.js   Watch Text With Audio
+Routing modes in Vue.js    Watch Text With Audio
+Navigation with router links in Vue.js   Watch Text With Audio
+Styling active links in Vue.js   Watch Text With Audio
+Imperative navigation in Vue.js   Watch Text With Audio
+Route Parameters in Vue.js   Watch Text With Audio
+How to set up child or nested routes in vue.js   Watch Text With Audio
+Named routes in Vue.js    Watch Text With Audio
+Query parameters in Vue.js   Watch Text With Audio
+Named router views in Vue.js   Watch Text With Audio
+Wildcard routes in Vue.js   Watch Text With Audio
+Usage of route guards in Vue.js   Watch Text With Audio
+
+  State Management
+Introduction to state management in Vue.js   Watch Text With Audio 
+What is need for state management in Vue.js   Watch Text With Audio
+What is vuex in Vue.js   Watch Text With Audio
+How to create centralized store in Vue.js   Watch Text With Audio
+How to create understanding Getters in Vue.js   Watch Text With Audio
+Using Getters in Vue.js   Watch Text With Audio
+Mapping Getters to Properties in Vue.js   Watch Text With Audio
+
+  Understanding Mutations
+Usage of Mutations in Vue.js   Watch Text With Audio 
+Using Actions in Vue.js   Watch Text With Audio
+How to mapping Actions to Methods in Vue.js    Watch Text With Audio
+
+  Unit testing
+Introduction to unit testing in Vue.js   Watch Text With Audio
+Setup and tooling in Vue.js   Watch Text With Audio
+How to use testing components in Vue.js   Watch Text With Audio
+
+
+
+
+
+
+
+1 - What is VueJS       Watch Text With Audio
+2 - What are the major features of VueJS     Watch Text With Audio
+3 - What are the lifecycle methods of VueJS    Watch Text With Audio
+4 - What are the conditional directives    Watch Text With Audio
+5 - What is the difference between v-show and v-if directives    Watch Text With Audio
+6 - What is the purpose of v-for directive?    Watch Text With Audio
+7 - What is a vue instance?    Watch Text With Audio
+8 - How do you achieve a conditional group of elements?    Watch Text With Audio
+9 - How do you reuse elements with a key attribute?    Watch Text With Audio
+10 - Why should you not use if and for directives together on the same element?    Watch Text With Audio
+11 - Why do you need to use a key attribute on for directive?   Watch Text With Audio
+12 - What are the array detection mutation methods?    Watch Text With Audio
+13 - What are the array detection non mutation methods?    Watch Text With Audio
+14 - What are the caveats of array changes detection?    Watch Text With Audio
+15 - What are the caveats of object changes detection?    Watch Text With Audio
+16 - How do you use for directive with a range?    Watch Text With Audio
+17 - How do you use for directive on template?    Watch Text With Audio
+18 - How do you use event handlers?    Watch Text With Audio
+19 - What are the event modifiers provided by vue?    Watch Text With Audio
+20 - What are key modifiers?    Watch Text With Audio
+21 - How do you define custom key modifier aliases?    Watch Text With Audio
+22 - What are the supported System Modifier Keys?    Watch Text With Audio
+23 - What are the supported Mouse Button Modifiers?    Watch Text With Audio
+24 - How do you implement two way binding?    Watch Text With Audio
+25 - What are the supported modifiers on model?    Watch Text With Audio
+26 - What are components and give an example?   Watch Text With Audio
+27 - What are props?   Watch Text With Audio
+28 - When component needs a single root element?     Watch Text With Audio
+29 - How do you communicate from child to parent using events?    Watch Text With Audio
+30 - How do you implement model on custom input components?    Watch Text With Audio
+31 - What are slots?     Watch Text With Audio
+32 - What is global registration in components?    Watch Text With Audio
+33 - Why do you need local registration?     Watch Text With Audio
+34 - What is the difference between local and global registration in module system?    Watch Text With Audio
+35 - What are possible prop types?    Watch Text With Audio
+36 - What is the data flow followed by props?    Watch Text With Audio
+37 - What are non prop attributes?     Watch Text With Audio
+38 - Describe about validations available for props?     Watch Text With Audio
+39 - How do you customize model directive for a component?    Watch Text With Audio
+40 - What are the possible ways to provide transitions?    Watch Text With Audio
+41 - What is vue router and their features?    Watch Text With Audio
+42 - What are the steps to use vue router and give an example?    Watch Text With Audio
+43 - What is dynamic route matching?    Watch Text With Audio
+44 - How to make router param changes as reactive?    Watch Text With Audio
+45 - What is route matching priority?    Watch Text With Audio
+46 - What are nested routes?     Watch Text With Audio
+47 - What are single file components?     Watch Text With Audio
+48 - Is Single File Components violating separation of concerns?    Watch Text With Audio
+49 - What are the problems solved by Single File Components?    Watch Text With Audio
+50 - What are filters?    Watch Text With Audio
+51 - What are the different ways to create filters?    Watch Text With Audio
+52 - How do you chain filters    Watch Text With Audio
+53 - Is it possible to pass parameters for filters?    Watch Text With Audio
+54 - What are plugins and their various services?    Watch Text With Audio 
+55 - How to create a plugin?    Watch Text With Audio
+56 - How to use a plugin?     Watch Text With Audio
+57 - What are mixins?       Watch Text With Audio
+58 - What are global mixins?      Watch Text With Audio
+59 - How do you use mixins in CLI?     Watch Text With Audio
+60 - What are the merging strategies in mixins?     Watch Text With Audio
+61 - What are custom options merging strategies?    Watch Text With Audio
+62 - What are custom directives?    Watch Text With Audio
+63 - How do you register directives locally?   Watch Text With Audio
+64 - What are the hook functions provided by directives?  Watch Text With Audio
+65 - What are the directive Hook Arguments?  Watch Text With Audio
+66 - How do you pass multiple values to a directive?  Watch Text With Audio
+67 - What is function shorthand in directive hooks?  Watch Text With Audio
+68 - What is the benefit of render functions over templates?  Watch Text With Audio
+69 - What is a render function?  Watch Text With Audio
+70 - Explain the structure of createElement with arguments   Watch Text With Audio
+71 - How can you write duplicate virtual nodes in a component?  Watch Text With Audio
+72 - List down the template equivalents in render functions?  Watch Text With Audio
+73 - What are functional components?  Watch Text With Audio
+74 - What are the similarities between VueJS and ReactJS?  Watch Text With Audio
+75 - What is the difference between VueJS and ReactJS?  Watch Text With Audio
+76 - What are the advantages of VueJS over ReactJS?  Watch Text With Audio
+77 - What are the advantages of ReactJS over VueJS?  Watch Text With Audio
+78 - What are the differences between VueJS and Angular?  Watch Text With Audio
+79 - What are dynamic components?  Watch Text With Audio
+80 - What is the purpose of keep alive tag?  Watch Text With Audio
+81 - What are async components?  Watch Text With Audio
+82 - What is the structure of async component factory?  Watch Text With Audio
+83 - What are inline templates?  Watch Text With Audio
+84 - What are X Templates?  Watch Text With Audio
+85 - What are recursive components?  Watch Text With Audio
+86 - How do you resolve circular dependencies between components?  Watch Text With Audio
+87 - How do you make sure vue application is CSP complaint?  Watch Text With Audio
+88 - What is the difference between full and runtime only builds?  Watch Text With Audio
+89 - List down different builds of vuejs?  Watch Text With Audio
+90 - How do you configure vuejs in webpack?  Watch Text With Audio
+91 - What is the purpose of vuejs compiler?  Watch Text With Audio
+92 - What is Dev Tools and its purpose?   Watch Text With Audio
+93 - What is the browser support of VueJS?  Watch Text With Audio
+94 - How do you use various CDNs?   Watch Text With Audio
+95 - How do you force update?  Watch Text With Audio
+96 - What is the purpose of vuejs once directive?  Watch Text With Audio 
+97 - How do you access the root instance?   Watch Text With Audio
+98 - List out top 10 organizations using Vuejs?   Watch Text With Audio
+99 - What is the purpose of renderError?   Watch Text With Audio
+100 - How do you access parent instance?   Watch Text With Audio
+101 - What is vuex?  Watch Text With Audio
+102 - What are the major components of State Management Pattern? Watch Text With Audio
+103 - How do you represent one way data flow in vuex? Watch Text With Audio
+104 - What is a vuejs loader?  Watch Text With Audio
+105 - How do you configure vue loader in webpack?   Watch Text With Audio
+106 - What are asset url transform rules?   Watch Text With Audio
+107 - How do you work with preprocessors using vue loader?   Watch Text With Audio
+108 - What is scoped CSS?   Watch Text With Audio
+109 - Is it possible to mix both local and global styles?   Watch Text With Audio
+110 - How do you use deep selectors?   Watch Text With Audio
+111 - Is parent styles leaked into child components in scoped css?  Watch Text With Audio
+112 - How do you style dynamic generated content using scoped css?  Watch Text With Audio
+113 - Is CSS modules supported in Vuejs?  Watch Text With Audio
+114 - Can I use runtime builds for all templates?  Watch Text With Audio
+115 - How to use CSS modules in vuejs?  Watch Text With Audio
+116 - Can I use CSS modules for preprocessors?   Watch Text With Audio
+117 - Is it possible to use custom inject name for CSS modules?  Watch Text With Audio
+118 - What is hot reloading in vue loader?  Watch Text With Audio
+119 - What is the default behavior of hot reloading?  Watch Text With Audio
+120 - How do you disable hot reloading explicitly?  Watch Text With Audio
+121 - How do you use hot reloading?   Watch Text With Audio
+122 - What are state preservation rules in hot reloading?   Watch Text With Audio
+123 - How to create functional components using vue loader?  Watch Text With Audio
+124 - How do you access global properties of functional components?  Watch Text With Audio
+125 - How do you perform testing in vuejs?  Watch Text With Audio
+126 - How do you apply linting for css?  Watch Text With Audio
+127 - How do you use eslint plugin?  Watch Text With Audio
+128 - What is the purpose of eslint loader?  Watch Text With Audio
+129 - What is CSS extraction?   Watch Text With Audio
+130 - What are custom blocks?   Watch Text With Audio
+131 - What are the features of stylelint?  Watch Text With Audio
+132 - What are the principles for vuex application structure?  Watch Text With Audio
+133 - Does Vuex support hot reloading??   Watch Text With Audio
+134 - What is the purpose of hotUpdate API of vuex store?  Watch Text With Audio
+135 - How do you test mutations?   Watch Text With Audio
+136 - How do you test your getters?   Watch Text With Audio
+137 - What is the procedure to run tests in node?   Watch Text With Audio
+138 - What is the procedure to run tests in browser?  Watch Text With Audio
+139 - What is the purpose of strict mode in vuex?   Watch Text With Audio
+140 - Can I use strict mode in production environment?   Watch Text With Audio
+141 - What is vuex plugin?  Watch Text With Audio
+142 - How do you mutate state in plugins?  Watch Text With Audio
+143 - What is vuex store?  Watch Text With Audio
+144 - What are the differences of vuex store and plain global object? Watch Text With Audio
+145 - What is the reason not to update the state directly?
+146 - What is Single state tree?  Watch Text With Audio
+147 - How do you install vuex?  Watch Text With Audio
+148 - Do I need promise for vuex?   Watch Text With Audio
+149 - How do you display store state in vue components?   Watch Text With Audio
+150 - How do you inject store into child components?   Watch Text With Audio
+151 - What is map State helper?   Watch Text With Audio
+152 - How do you combine local computed properties with mapState helper?   Watch Text With Audio
+153 - Do you need to replace entire local state with vuex?   Watch Text With Audio
+154 - What are vuex getters?   Watch Text With Audio
+155 - What is a property style access?   Watch Text With Audio
+156 - What is a method style access?   Watch Text With Audio
+157 - What is mapGetter helper?   Watch Text With Audio
+158 - What are mutations?   Watch Text With Audio
+159 - How do you commit with payload?   Watch Text With Audio
+160 - What is object style commit?   Watch Text With Audio
+161 - What are the caveats with vuex mutations?   Watch Text With Audio
+162 - Why mutations should be synchronous?  Watch Text With Audio
+163 - How do you perform mutations in components?  Watch Text With Audio
+164 - Is it mandatory to use constants for mutation types?   Watch Text With Audio
+165 - How do you perform asynchronous operations?   Watch Text With Audio
+166 - What are differences between mutations and actions?   Watch Text With Audio
+167 - Give an example usage of actions?   Watch Text With Audio
+168 - How do you dispatch actions?  Watch Text With Audio
+169 - Can you dispatch an action using payload or object?  Watch Text With Audio
+170 - Can I use styled components in vuejs?   Watch Text With Audio
+171 - How do you dispatch actions in components?  Watch Text With Audio
+172 - How do you compose actions?  Watch Text With Audio
+173 - What are modules in vuex?   Watch Text With Audio
+174 - What is module local state?    Watch Text With Audio
+175 - What is namespacing in vuex   Watch Text With Audio
+176 - What is the default namespace behavior in vuex?  Watch Text With Audio
+177 - When do you reuse modules?   Watch Text With Audio
+178 - What are the principles enforced by vuex?   Watch Text With Audio
+179 - Can I perform mutations directly in strict mode?   Watch Text With Audio
+180 - How to use model directive with two way computed property?  Watch Text With Audio
+181 - What is Vue CLI?  Watch Text With Audio
+182 - What are the features provided by Vue CLI?  Watch Text With Audio
+183 - What is instant prototyping?  Watch Text With Audio
+184 - How do you create project using Vue CLI?   Watch Text With Audio
+185 - How do you create project using GUI?   Watch Text With Audio
+186 - What are plugins in vue CLI?   Watch Text With Audio
+187 - How do you install plugins in an existing Vue CLI project?   Watch Text With Audio
+188 - How to access local plugins in a project?   Watch Text With Audio
+189 - How do you create UI plugins kind of behavior?   Watch Text With Audio
+190 - What are presets?  Watch Text With Audio
+191 - What is the versioning behavior in preset plugins?   Watch Text With Audio
+192 - How do you allow plugin prompts?  Watch Text With Audio
+193 - What are remote presets?   Watch Text With Audio
+194 - Can I use local presets?     Watch Text With Audio
+195 - What is the purpose of browserslist option?    Watch Text With Audio
+196 - How do you find VueJS version using API?   Watch Text With Audio
+197 - How do you create reactive objects   Watch Text With Audio
+198 - What is the purpose new slot directive?   Watch Text With Audio
+199 - What is the use of compile method?   Watch Text With Audio
+200 - What does nextTick do in VueJS?  Watch Text With Audio
+201 - What is async error handling?   Watch Text With Audio
+202 - What are Dynamic Directive Arguments?   Watch Text With Audio
+203 - What are the drawbacks of dynamic directive arguments?   Watch Text With Audio
+204 - What is the special handling for null values in dynamic directive arguments?  Watch Text With Audio
+205 - Can I use dynamic directive null value for slots?   Watch Text With Audio
+206 - What is Vue I18n plugin?   Watch Text With Audio
+207 - #What are the types of formatting?   Watch Text With Audio
+208 - What is custom formatting?   Watch Text With Audio
+209 - How do you handle Pluralization?   Watch Text With Audio
+210 - How to implement DateTime localization?   Watch Text With Audio
+211 - How do you implement Number localization?   Watch Text With Audio
+212 - How do you perform locale changing   Watch Text With Audio
+213 - What is Lazy loading translations?   Watch Text With Audio
+214 - What is the main difference between method and computed property?   Watch Text With Audio
+215 - What is vuetify?   Watch Text With Audio
+216 - How do you watch for nested data changes?   Watch Text With Audio
+217 - How to trigger watchers on initialization?   Watch Text With Audio
+218 - What is the purpose of comments option?   Watch Text With Audio
+219 - How to identify whether code is running on client or server?   Watch Text With Audio
+220 - How do you watch route object changes?  Watch Text With Audio
+221 - How do you sync current route in vuex store?  Watch Text With Audio
+222 - What are navigation guards in vue router?   Watch Text With Audio
+223 - Can I use computed property in another computed property?  Watch Text With Audio
+224 - How can I use imported constant in template section?  Watch Text With Audio
+225 - Is recommended to use async for computed properties?   Watch Text With Audio
+226 - What happens if you use duplicate field names?   Watch Text With Audio
+227 - Why the component data must be a function?   Watch Text With Audio
+228 - What is the reason for recommendation for multi-word component names?   Watch Text With Audio
+229 - How to use composition API in Vue2.0?   Watch Text With Audio
+230 - What is composition API?   Watch Text With Audio
+231 - What is the best way to re-render a component?   Watch Text With Audio
+Posted by Vlr Training at 20:53 
+Email This
+BlogThis!
+Share to X
+Share to Facebook
+Share to Pinterest
+No comments:
+
+Post a Comment
+
+Note: only a member of this blog may post a comment.
+
+
+Newer PostOlder PostHome
+Subscribe to: Post Comments (Atom)
+Sales Force CPQ training
+https://www.vlrtraining.com
+https://www.htmlwasher.com/
+Mendix Online/Classroom Training in Hyderabad
+Mendix Online Classroom</p>
+
+
+</body>
+</html>
